@@ -19,6 +19,7 @@
   "devDependencies": {
     "grunt": "^1.0.3",
     "grunt-contrib-less": "^2.0.0",
+    "grunt-htmlhint": "^0.9.13",
     "less": "^3.9.0"
   }
 }
