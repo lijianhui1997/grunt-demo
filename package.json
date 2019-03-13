@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "grunt": "^1.0.3",
-    "grunt-contrib-imagemin": "^3.1.0",
+    "grunt-contrib-imagemin": "^2.0.1",
     "mocha": "^6.0.2"
   },
   "scripts": {
